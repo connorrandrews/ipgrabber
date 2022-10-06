@@ -1,3 +1,5 @@
+#Code only to be used for legal purposes.
+#I am not responsibly for your actions.
 import requests
 
 def detect_public_ip():
