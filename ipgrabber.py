@@ -1,5 +1,6 @@
 #Code only to be used for legal purposes.
 #I am not responsibly for your actions.
+#https://github.com/connorrandrews
 import requests
 
 def detect_public_ip():
