@@ -16,5 +16,5 @@ def detect_public_ip():
 
 public_ip = detect_public_ip()
 print(public_ip)
-
+print ()
 
